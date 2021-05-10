@@ -1,0 +1,9 @@
+2021-05-06 14:14:08,616 WARN  [SoapUI] Missing folder [C:\Users\NILESHNEHETE\Desktop\API Reskill\Project_Framework\my-app\ext] for external libraries
+2021-05-06 14:14:09,053 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\NILESHNEHETE\soapui-settings.xml]
+2021-05-06 14:14:10,776 INFO  [WsdlProject] Loaded project from [file:/C:/Users/NILESHNEHETE/Desktop/API%20Reskill/Project_Framework/my-app/Project-2-soapui-project.xml]
+2021-05-06 14:14:11,543 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [MVN_JenkinDemo]
+2021-05-06 14:14:11,546 INFO  [SoapUITestCaseRunner] Running Project [MVN_JenkinDemo], runType = SEQUENTIAL
+2021-05-06 14:14:11,590 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [databaseTestingwithJDBC]
+2021-05-06 14:14:11,608 INFO  [SoapUITestCaseRunner] running step [JDBC Request]
+2021-05-06 14:14:12,155 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [databaseTestingwithJDBC], time taken: 533ms, status: FINISHED
+2021-05-06 14:14:12,158 INFO  [SoapUITestCaseRunner] Project [MVN_JenkinDemo] finished with status [FINISHED] in 604ms
